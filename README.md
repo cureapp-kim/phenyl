@@ -1,4 +1,6 @@
-# Phenyl - State Synchronization over Environments [![CircleCI](https://circleci.com/gh/phenyl/phenyl.svg?style=shield&circle-token=e5b0170cf6df4acd73f13c66cc37e0cb1a56948c)](https://circleci.com/gh/phenyl/phenyl)
+# Phenyl - State Synchronization over Environments 
+[![CircleCI](https://circleci.com/gh/phenyl/phenyl.svg?style=shield&circle-token=e5b0170cf6df4acd73f13c66cc37e0cb1a56948c)](https://circleci.com/gh/phenyl/phenyl) [![DeepScan grade](https://deepscan.io/api/teams/9571/projects/12106/branches/183465/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9571&pid=12106&bid=183465) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=cureapp-kim_phenyl&metric=alert_status)](https://sonarcloud.io/dashboard?id=cureapp-kim_phenyl)
+
 **WORK IN PROGRESS**
 
 Phenyl is a **series of JavaScript libraries** for both client-side and server-side, which focuses on **State Synchronization over Environments(SSoE)**.
